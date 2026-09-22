@@ -2,14 +2,14 @@
 
 # 🚀 Birthday Tracker Pro (365-Day Journey)
 For Download This Particular App -> Telegram : @AI172
-Contact : In @AI172
 
-![Birthday Tracker 365](https://github.com/Mahdi-Shahrezaei/Python-Birthday-Tracker/blob/main/BT365.png)
+Contact : In @AI172
 
 ![Python](https://img.shields.io/badge/python-36.x-blue?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
+![Birthday Tracker 365](https://github.com/Mahdi-Shahrezaei/Python-Birthday-Tracker/blob/main/BT365.png)
 > **"Don't just count the days, make the days count."**  
 > A minimalist, high-performance dark-mode tracker designed to visualize your journey from July 11th to the next year.
 
